@@ -9,5 +9,3 @@ el propio programa ayuda a saber que pasos tomar y es muy simple de usar.
 Solo necesita ejecutar y seleccionar una de las tres opciones disponibles escribiendo el numero
 
 correspondiente de la operación y dando "Enter", para salir seleccione la opcion 3.
-
-Este programa cuenta con una clase principal y dos clases hijas que funcionan como metodos para poder ser más ordenados.
